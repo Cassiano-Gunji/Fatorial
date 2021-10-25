@@ -1,3 +1,3 @@
-#Fatorial
-Exemplo de um aplicativo ASP.Net que calcula no servidor o fatorial de um número inteiro usando um algoritmo recursivo.
-Note que este exemplo não faz qualquer tentativa de ser um aplicativo "à prova de idiotas".
+# Fatorial
+Exemplo de um aplicativo ASP.Net que calcula no servidor o fatorial de um nÃºmero inteiro usando um algoritmo recursivo.
+Note que este exemplo nÃ£o faz qualquer tentativa de ser um aplicativo "Ã  prova de idiotas".
